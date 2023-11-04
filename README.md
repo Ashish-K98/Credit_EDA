@@ -1,2 +1,2 @@
-# EDA
+# Credit EDA
 Exploratory Data Analysis
